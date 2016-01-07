@@ -1,15 +1,12 @@
 {
-   "applinks": {
-       "apps": [ ],
-       "details": [
-           {
-               "appID": "CE5Y3EXP84.pl.domodi.apps.Domodi",
-               "paths": [„”, "*", "/", "/*", "index.html", "index.html/*"]
-           },
-           {
-               "appID": "TeamID.BundleID2",
-               "paths": [ "*" ]
-           }
-       ]
-   }
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "CE5Y3EXP84.pl.domodi.apps.Domodi",
+			"paths": ["", "/*", "index.html", "index.html/"]
+		}, {
+			"appID": "TeamID.BundleID2",
+			"paths": ["*"]
+		}]
+	}
 }
