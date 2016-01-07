@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "CE5Y3EXP84.pl.domodi.apps.Domodi",
-                "paths": [ „/*„, „/index.html”, „/index.html/”, „”, „/”]
+                "paths": [ „/*„, „/index.html”, „/index.html/”, „”, „/”, „*”]
             }
         ]
     }
