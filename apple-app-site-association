@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "CE5Y3EXP84.pl.domodi.apps.Domodi",
+                "paths": [ "/odziez/odziez-damska/", "/odziez/odziez-meska/*"]
+            },
+            {
+                "appID": "TeamID.BundleID2",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
