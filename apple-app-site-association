@@ -4,7 +4,11 @@
         "details": [
             {
                 "appID": "CE5Y3EXP84.pl.domodi.apps.Domodi",
-                "paths": ["*", "/*"]
+                "paths": [ "/wwdc/news/", "/videos/wwdc/2015/*", "*", "/*"]
+            },
+            {
+                "appID": "TeamID.BundleID2",
+                "paths": [ "*" ]
             }
         ]
     }
